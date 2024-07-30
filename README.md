@@ -14,7 +14,7 @@
 
 - Colleghiamo questo progetto ad una repo separata.
 
-# []Milestone 4
+# [*]Milestone 4
 
 - Nel componente principale della nostra Vue App facciamo una chiamata API all’endpoint costruito nel progetto Laravel (milestone 1) e recuperiamo tutti i progetti dal nostro back-end.
 - Stampiamo in console i risultati e verifichiamo di ricevere i dati correttamente.
