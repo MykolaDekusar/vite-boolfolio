@@ -1,6 +1,6 @@
 <script>
 export default {
-  props: {
+  /* props: {
     msg: String,
     title: String,
     description: String,
@@ -8,7 +8,8 @@ export default {
     categ: String,
     techs: Array,
     created: String,
-  },
+  },*/
+  props: ["msg", "title", "description", "image", "categ", "techs", "created"],
 
   methods: {
     formatData(dateString) {
